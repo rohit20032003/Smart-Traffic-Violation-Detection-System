@@ -1,0 +1,2 @@
+# streamlit - This is the ONLY dependency needed!
+# All other functionality uses built-in Python libraries
