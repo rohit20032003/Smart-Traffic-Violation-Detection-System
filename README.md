@@ -30,12 +30,12 @@ The project focuses on leveraging machine learning algorithms to detect traffic 
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/omkarjavali/Automatic-Traffic-Rule-Violation-Detection-and-Fine-Collection-Using-Machine-Learning.git
+git clone https://github.com/rohit20032003/Smart-Traffic-Violation-Detection-System
 ```
 
 2. Navigate to project directory
 ```bash
-cd Automatic-Traffic-Rule-Violation-Detection-and-Fine-Collection-Using-Machine-Learning
+cd https://github.com/rohit20032003/Smart-Traffic-Violation-Detection-System
 ```
 
 3. Install the required dependencies
