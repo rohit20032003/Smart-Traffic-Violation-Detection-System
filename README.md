@@ -1,4 +1,5 @@
-﻿# Automatic Traffic Rule Violation Detection and Fine Collection Using Machine Learning
+﻿# Smart-Traffic-Violation-Detection-System
+
 
 This project aims to develop a system that automatically detects traffic rule violations and facilitates fine collection using machine learning techniques. This system is designed to improve road safety and streamline the process of monitoring traffic rule adherence.
 
